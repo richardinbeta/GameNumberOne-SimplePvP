@@ -19,7 +19,3 @@ func base_player_movement():
 	
 	move_and_slide(_velocity)
 	
-# player collects coin
-func _on_Coin_collect_coin():
-	print("Player got a coin!!")
-# player score increments
